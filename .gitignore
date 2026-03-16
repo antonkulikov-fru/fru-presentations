@@ -19,7 +19,7 @@ yarn-error.log*
 .yarn
 
 # Build/Inbox
-_inbox/
+# _inbox/
 dist/
 build/
 *.pdf
