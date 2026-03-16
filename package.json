@@ -7,7 +7,6 @@
         "presentation:update": "node scripts/presentation-manager.js update"
     },
     "dependencies": {
-        "puppeteer": "^24.35.0",
-        "thefuzz": "^0.0.1"
+        "puppeteer": "^24.35.0"
     }
 }
